@@ -2,12 +2,13 @@
 Project Spork is an open government project aimed at scraping data about the New Zealand Parliament, specifically the House of Representatives (the only voting chamber).
   
 At the moment, the project goals are to:
-- Scrape a list of all active MPs, and allow users to see how members voted (in conscience votes), or how their party voted (in regular votes)
-  - Correctly list and highlight defections, floor crossings, and abstentions on the floor without proper reason
-- Automatically scrape Hansard debate content and match the speaker content to an MP in the database
-  - Allow users to highlight and comment on specific text, as well as share an easy link to a specific
+- [x] Scrape a list of all active MPs
+- [ ] Allow users to see how members voted (in conscience votes), or how their party voted (in regular votes)
+  - [ ] Correctly list and highlight defections, floor crossings, and abstentions on the floor without proper reason
+- [ ] Automatically scrape Hansard debate content and match the speaker content to an MP in the database
+  - [ ] Allow users to highlight and comment on specific text, as well as share an easy link to a specific
     phrase said by a member
-- Provide this data in an open-source format, as well as an API for other services to access
+- [ ] Provide this data in an open-source format, as well as an API for other services to access
   
 ## Architecture
 **scraping_tools**  
