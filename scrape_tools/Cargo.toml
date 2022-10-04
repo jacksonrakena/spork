@@ -7,6 +7,7 @@ edition = "2021"
 
 [dependencies]
 futures = "0.3.24"
+html_parser = "0.6.3"
 reqwest = "0.11.12"
 serde = { version = "1.0.145", features = ["serde_derive"] }
 serde_json = "1.0.85"
