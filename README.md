@@ -1,5 +1,5 @@
 # Project Spork
-*Read Project Spork's [announcement post](https://blog.jacksonrakena.com/2021/12/29/project-spork-announcement.html).*  
+*Read Project Spork's [announcement post](https://blog.jacksonrakena.com/2022/10/01/project-spork-announcement.html).*  
   
 Project Spork is an open government project aimed at scraping data about the New Zealand Parliament, specifically the House of Representatives (the only voting chamber).
   
